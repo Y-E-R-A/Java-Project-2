@@ -2,6 +2,11 @@ package rbadia.voidspace.main;
 
 import javax.swing.JFrame;
 
+//Edited by: 
+//Yomaira Rivera Albarran
+//Kensy Bernadeau Rivera
+// Last time edited: 5/2/16
+
 /**
  * Main game class. Starts the game.
  */

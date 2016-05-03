@@ -91,7 +91,7 @@ public class GameLogic {
 		bossShip=new ArrayList<BossShip>();
 		bossBullet=new ArrayList<Bullet>();
 
-		status.setShipsLeft(99);
+		status.setShipsLeft(5);
 		status.setGameOver(false);
 		status.setEnemiesDestroyed(0);
 		status.addScore(-status.getScore());
